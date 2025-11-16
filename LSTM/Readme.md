@@ -5,9 +5,9 @@ Here, I practiced and learned how LSTM models work and how they improve over tra
 
 ---
 
-### 📄 Files Included
+### 📄 File Included
 
-### ** `LSTM_Text_Generation.ipynb`**  
+### **LSTM_Text_Generation.ipynb**  
 This notebook contains a complete implementation of **LSTM-based text generation**.  
 Inside this file, I learned:
 
