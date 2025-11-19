@@ -44,12 +44,12 @@ pip install transformers datasets accelerate
 
 ## This project uses Causal Language Modeling (CLM):
 
-The model reads tokens left → right
+- The model reads tokens left → right
 
-Predicts the next word
+- Predicts the next word
 
-Learns writing style, tone, lore, and patterns
+- Learns writing style, tone, lore, and patterns
 
-Same method used by GPT-2 & GPT-3
+- Same method used by GPT-2 & GPT-3
 
-Perfect for learning how GPT models are trained.
+- Perfect for learning how GPT models are trained.
