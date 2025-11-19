@@ -1,0 +1,28 @@
+Wuthering Waves is an open-world action RPG developed by Kuro Game, set in a large, explorable world with diverse environments. The game employs movement mechanics that allow for uninterrupted exploration, featuring a stamina-free sprint and wall-running in place of traditional climbing. These mechanics aim to make traversal smoother and faster, minimizing the constraints commonly found in open-world RPGs.
+
+Combat draws from other well-known action RPGs like Genshin Impact, Honkai Impact 3rd, and Punishing Gray Raven. It focuses on team-based play, where switching between Resonators allows for combination attacks and skill chains. Each character has a set of standard abilities—basic attacks, skills, ultimates, and passives—but Wuthering Waves includes aerial combat, adding an additional layer to the combat system that involves vertical movement and strategy.
+
+The game leverages Kuro Game's animation style, with detailed visuals that emphasize both exploration and combat. The animations aim to create a cinematic experience, designed to make each action and interaction appear fluid and consistent with the game's overall aesthetic.
+
+Wuthering Waves Combat
+Image
+
+Wuthering Waves employs combat mechanics that are reminiscent of games like Genshin Impact and Tower of Fantasy, with several additional elements that distinguish it. Players can chain basic attacks into combos, utilize skills for a range of tactical effects, and activate ultimate abilities for powerful, battle-changing outcomes.
+
+In addition to basic attacks, players can incorporate heavy attacks into their combos. The behavior of these heavy attacks varies depending on the character. For example, Taoqi's heavy attack allows her to enter a parry state, deflecting incoming damage, while Danjin's heavy attack delivers a quick three-hit combo. These differences add a layer of strategy to each character's playstyle, making combat feel diverse and character-specific.
+
+Each Resonator also has a unique Resonance Skill tied closely to their character design. These skills provide a variety of effects, from shielding allies to extending combos, often requiring specific conditions to trigger or enhance their power. Additionally, Resonators have access to Forte Circuits—abilities with varied effects that are more limited in use, relying on managing a resource like the Forte Gauge, which fills through character-specific actions. Finally, each Resonator can unleash a powerful move called Resonance Liberation, akin to an Ultimate Skill, that can significantly alter the course of battle. These abilities are designed to be impactful but come with usage restrictions, such as filling a gauge or gathering charges, and their effects vary significantly based on the character.
+
+Wuthering Waves Gacha
+The gacha system in Wuthering Waves combines familiar elements from other gacha-based games, with some unique adjustments. The Character Event Convene, or event banner, offers a 0.8% pull rate for 5-star Resonators, using a 50-50 system. When a 5-star character is pulled, there's a 50% chance it will be the featured character. If the player doesn't obtain the featured character on their first 5-star pull, the next 5-star is guaranteed to be the featured character, creating a safety net for desired pulls.
+
+The standard banner, known as the Character Permanent Convene, shares the same 0.8% rate for 5-star characters. However, unlike the event banner, it does not feature increased rates for any specific Resonator, meaning that characters like Verina, Encore, Jianxin, Lingyang, and Calcharo all have an equal chance of being obtained. This structure is similar to the gacha systems found in games like Honkai: Star Rail and Snowbreak: Containment Zone, though the rates and pity mechanics vary slightly.
+
+For weapons, the Weapon Event Convene also features a 0.8% 5-star rate, but it lacks the 50-50 mechanic of the character banners. Instead, players are guaranteed to pull the featured weapon whenever they obtain a 5-star. The Weapon Permanent Convene follows the same rule, ensuring that any 5-star weapon pulled is the selected one. These mechanics are similar to the weapon banners in Punishing Gray Raven. In Wuthering Waves, Radiant Tides are used for pulls on all Event Convenes (both character and weapon), while Lustrous Tides are used for Permanent Convenes.
+
+Wuthering Waves Story
+Wuthering Waves unfolds in a world devastated by a catastrophe known as the Lament, a cataclysm that nearly wiped out humanity. In the wake of this disaster, the remaining survivors banded together, forming fragile alliances to rebuild civilization amidst the ruins. The Lament also unleashed dangerous creatures known as Tacet Discords, prompting the emergence of Resonators—individuals with unique Resonance Abilities linked to their Tacet Marks, enabling them to defend humanity against these threats.
+
+Players assume the role of the Rover, a newcomer with a mysterious past who arrives in this struggling world. Due to the unclear circumstances of your arrival, the Resonators keep a watchful eye on you, uncertain of your intentions. As you navigate this world, you encounter various factions and characters, each with their own agendas and histories shaped by the aftermath of the Lament.
+
+The story in Wuthering Waves centers on uncovering the mysteries of the post-Lament world and the Rover’s own origins. The game emphasizes exploration, with clues and narrative threads gradually revealing deeper secrets about the nature of the Lament and the forces that continue to shape this fractured world. The storyline focuses on both personal and broader struggles, as humanity seeks to reclaim its future in a landscape still haunted by the past.
