@@ -8,7 +8,12 @@ This project demonstrates how to fine-tune a pre-trained language model using **
 - [Overview](#overview)
 - [What is LoRA?](#what-is-lora)
 - [Core Idea](#Core-Idea)
-
+- [Why Low Rank?](#Why-Low-Rank)
+- [Where LoRA Is Applied](#Where-LoRA-Is-Applied)
+- [Training Process](#Training-Process)
+- [Inference](#Inference)
+- [Advantages of LoRA](#Advantages-of-LoRA)
+- [Summary](#Summary)
 ## Overview
 
 Traditional fine-tuning of large language models requires significant GPU memory and time. This project uses **LoRA**, a parameter-efficient fine-tuning technique that trains only a small subset of model parameters, making it ideal for academic projects, limited hardware, and rapid experimentation.
