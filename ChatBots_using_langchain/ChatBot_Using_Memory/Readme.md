@@ -3,6 +3,7 @@
 A powerful terminal-based chatbot built using LangChain and Google Gemini API, now upgraded with conversation memory so the bot remembers previous messages and chats like a real best friend!
 This version includes all types of LangChain memory, with only the best memory (ConversationBufferMemory) enabled.
 Other memory types are included but commented out with explanations.
+
 ---
 ##  🚀 Features
 - ✔️ Uses Google Gemini Free API
