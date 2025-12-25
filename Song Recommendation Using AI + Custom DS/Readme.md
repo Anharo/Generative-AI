@@ -28,8 +28,8 @@ The system follows a three-step pipeline:
 
 ### 1. Clone the Project
 ```bash
-git clone [https://github.com/yourusername/mood-music-recommender.git](https://github.com/yourusername/mood-music-recommender.git)
-cd mood-music-recommender
+git clone [https://github.com/Anharo/Generative-AI.git](https://github.com/Anharo/Generative-AI.git)
+cd Song_Recommendation_Using_AI_+_Custom DS
 ```
 ### 2. Set Up Virtual Environment
 ```bash
