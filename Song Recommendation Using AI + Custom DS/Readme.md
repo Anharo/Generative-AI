@@ -28,8 +28,8 @@ The system follows a three-step pipeline:
 
 ### 1. Clone the Project
 ```bash
-git clone [https://github.com/Anharo/Generative-AI.git](https://github.com/Anharo/Generative-AI.git)
-cd Song_Recommendation_Using_AI_+_Custom DS
+git clone https://github.com/Anharo/Generative-AI.git
+cd Generative-AI\Song Recommendation Using AI + Custom DS
 ```
 ### 2. Set Up Virtual Environment
 ```bash
